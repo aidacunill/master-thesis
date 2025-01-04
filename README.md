@@ -14,3 +14,9 @@ The repository includes Python scripts and Jupyter notebooks that reproduce the 
 
 ---
 
+## Files
+
+- "STROBOSCOPIC_MAP_EI": Python code for computing the Arnold Tongues and CTC measures for the E-I system with a single excitatory input. It also includes the calculation of Vector Strength when an inhibitory input is added.
+- "STROBOSCOPIC_MAP_EII": Python code for computing the Arnold Tongues and CTC measures for the E-I-I system with one excitatory input.
+- "STROBOSCOPIC_MAP_p(t)negative": Python code for computing the Arnold Tongues and CTC measures for the E-I system with one inhibitory input.
+- "STROBOSCOPIC_MAP_EI_inh": Python code for computing the Arnold Tongues and CTC measures for the E-I system with both excitatory and inhibitory inputs.
